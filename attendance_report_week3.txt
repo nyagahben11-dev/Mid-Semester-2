@@ -1,0 +1,27 @@
+Week 3 Attendance Report
+========================
+
+Student: Ama Serwaa (ID: 01276345D)
+Present on: 2026-02-22, 2026-02-22
+Student: Kofi Mensah (ID: 01298766D")
+Present on: 2026-02-22, 2026-02-22
+Student: Efua Ofori (ID: 01287657D)
+Present on: 2026-02-22, 2026-02-22
+Student: Yaw Boateng (ID: 01292008D)
+Present on: 2026-02-22, 2026-02-22
+Student: Abena Darko (ID: 01240179D)
+Present on: 2026-02-22, 2026-02-22
+Student: Nyagah Benedict Manny (ID: 01240176D)
+Present on: 2026-02-22, 2026-02-22
+Student: Ama Serwaa (ID: 01276345D)
+Present on: 2026-02-22
+Student: Kofi Mensah (ID: 01298766D)
+Present on: 2026-02-22
+Student: Efua Ofori (ID: 01287657D)
+Present on: 2026-02-22
+Student: Yaw Boateng (ID: 01292008D)
+Present on: 2026-02-22
+Student: Abena Darko (ID: 01240179D)
+Present on: 2026-02-22
+Student: Nyagah Benedict Manny (ID: 01240176D)
+Present on: 2026-02-22
