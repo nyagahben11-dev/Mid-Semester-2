@@ -96,7 +96,7 @@ public:
 
     // Show current attendance summary
     void showAttendance() {
-        cout << "\n───────────── ATTENDANCE SUMMARY ─────────────\n";
+        cout << "\n ATTENDANCE SUMMARY \n";
         cout << left << setw(15) << "ID" 
              << setw(30) << "Name" 
              << "Status\n";
